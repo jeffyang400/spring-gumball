@@ -18,6 +18,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import com.example.gumballmachine.GumballMachine ;
 
+/* Test Comment */
 @Slf4j
 @Controller
 @RequestMapping("/")
